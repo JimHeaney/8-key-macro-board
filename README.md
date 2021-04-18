@@ -5,6 +5,9 @@ The 8 Key Macro Board is a mechanical macro keyboard that can be programmed with
 
 The first revision of this board was primarily made as a Reddit shortcut board, but I am now working on a version 2 that is better for general use.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/8-key-macro-board.html).
+
 ## Current Release
 Version 1.1
 
